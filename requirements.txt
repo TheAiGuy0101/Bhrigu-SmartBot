@@ -3,3 +3,5 @@ openai
 streamlit
 streamlit-chat
 langchain-openai
+unstructured
+chromadb
